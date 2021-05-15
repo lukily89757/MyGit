@@ -108,6 +108,8 @@ void Spy_Main()
 			Sleep(1000);
 			// write to the output window
 			Printf("Another Second happened\n");
+
+			// new line
 			
 	} while (1);
 }
